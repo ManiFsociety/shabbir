@@ -1,3 +1,11 @@
+download from github !!!
+
+about shabbir => https://manikamran.blogspot.com/2020/10/about-shabbir.html
+
+shabbir moduels document  => https://manikamran.blogspot.com/2020/10/shabbir-moduels.html
+           |
+modules -._|
+
 #Shabbir.py
     This file use sys , re , shabbir_moduels and time
     Variable => x , helperOBG:
@@ -15,7 +23,7 @@
 #shabbir_moduels.py
     This file is the most important file of this project. If this file does not exist, the Shabbir is a kind of paralysis
     This part of project has document in my blog !
-    if you can not understand source code read ... 
+    if you can not understand source code read https://manikamran.blogspot.com/2020/10/about-shabbir.html
 
 
     
