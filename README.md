@@ -1,8 +1,4 @@
 download from github !!!
-
-about shabbir => https://manikamran.blogspot.com/2020/10/about-shabbir.html
-
-shabbir moduels document  => https://manikamran.blogspot.com/2020/10/shabbir-moduels.html
            |
 modules -._|
 
